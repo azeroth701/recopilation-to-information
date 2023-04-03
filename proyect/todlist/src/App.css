@@ -1,0 +1,17 @@
+.container {
+  margin: auto;
+  width: 50%;
+  border: 8px solid #5ee3ec;
+  background-color: #2ad351;
+  padding: 10px;
+}
+
+.add-btn {
+  float: right;
+  background-color: rgb(208, 13, 13);
+  color: #5cab40;
+}
+
+.box:nth-of-type(odd) {
+  background: #3dafbc;
+}

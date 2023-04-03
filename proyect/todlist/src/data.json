@@ -1,0 +1,17 @@
+[{
+    "id": 1,
+    "task": "completar examen",
+    "complete": false
+  }, {
+    "id": 2,
+    "task": "repasar codigo paso a paso",
+    "complete": false
+  }, {
+    "id": 3,
+    "task": "mejorar el centrado del box",
+    "complete": true
+  }, {
+    "id": 4,
+    "task": "subir repositorio a github",
+    "complete": false
+}]
